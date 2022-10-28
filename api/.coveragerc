@@ -1,0 +1,6 @@
+[report]
+omit =
+  manage.py
+  */migrations/*
+  */tests/*
+skip_empty=True
